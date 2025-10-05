@@ -1,2 +1,2 @@
-# seha.sa-injuries-slenquiry
-صحة-منصة الخدمات الصحية
+# seha-medical-system
+نظام صحة الطبي لإدارة الإجازات المرضية
